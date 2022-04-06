@@ -1,0 +1,214 @@
+body{
+    
+}
+
+
+header{
+    background-color: #1f2937;
+    height: 350px;
+
+}
+
+.top-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+
+}
+li{
+    color:#e5e7eb ;
+    font-size: 18px;
+
+}
+
+.bottomhead{
+    
+    display: flex;
+    
+    height: 230px;
+    justify-content: space-evenly;
+   
+
+    
+   
+
+
+}
+.modal{
+    
+    width:30%;
+    
+    }
+
+ .title{
+color: #f9faf8;
+font-size: 35px;
+font-weight: bolder;
+margin-bottom: 5px;
+ } 
+
+ .text{
+     margin-top: 0px;
+     font-size: 25;
+     color: #e5e7eb;
+ }
+ 
+ button{
+     margin-top: 10px;
+     padding: 8px;
+    border-radius: 7px;
+    background: rgb(55, 55, 195);
+    color: white;
+    font-weight: 600;
+ }
+.photoholder{
+    background-color:#9da0a7 ;
+    height: 230px;
+    width: 35%;
+    border: 2px red solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.contwhite{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.title2{
+    font-size: 30px;
+   text-align: center;
+   margin-bottom: 45px;
+   margin-top: 10px;
+   font-weight: 800;
+
+    
+}
+
+    
+
+img{
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    
+    
+}
+
+.text1,
+.text2,
+.text3,
+.text4
+{
+    margin-top: 0px;
+    width:210px ;
+    
+
+}
+.imgboxes{
+    display: flex;
+    justify-content: center;
+    gap: 65px;
+   
+    
+   
+
+}
+
+
+
+.contgray{
+    background-color: #e5e7eb;
+    height: 350px;
+
+
+}
+
+.contbottom{
+    height: 350px;
+
+}
+
+footer{
+
+    background-color: #1f2937;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contgray{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.thor-cont{
+   
+    width: fit-content;
+    height:180px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    font-size: 26px;
+    font-style: italic;
+    
+}
+.signature{
+    margin-top: -17px;
+    margin-left: 240px;
+    font-weight: 600;
+    
+    
+}
+.blue-box{
+    background-color: #3882f6;
+    width: 70%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.call{
+    color: #e5e7eb;
+    font-size: 30px;
+
+}
+.nxtsign-up{
+    padding: 10px 20px;
+
+}
+strong{
+    font-weight:900;
+    color: white;
+}
+.contbottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copy{
+    font-size: 30px;
+     font-weight: 600;
+    font-family: Verdana,sans-serif;
+    color: white;
+}
